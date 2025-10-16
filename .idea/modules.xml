@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/Array/Array.iml" filepath="$PROJECT_DIR$/DataStructure/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/DataStructure.iml" filepath="$PROJECT_DIR$/DataStructure/DataStructure.iml" />
       <module fileurl="file://$PROJECT_DIR$/tech-inteview-practice.iml" filepath="$PROJECT_DIR$/tech-inteview-practice.iml" />
     </modules>
   </component>
