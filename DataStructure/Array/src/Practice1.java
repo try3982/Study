@@ -28,8 +28,8 @@ public class Practice1 {
             }
         }
 
-        System.out.println("짝수 평균 : " + sumEven/ evenCnt);
-        System.out.println("홀수 평균 : " + sumOdd/ oddCnt);
+        System.out.println("짝수 평균 : " + sumEven/ evenCnt); // 5.0
+        System.out.println("홀수 평균 : " + sumOdd/ oddCnt);  // 5.0
 
     }
 }
