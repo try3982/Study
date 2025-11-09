@@ -18,6 +18,7 @@ public class B3_2562_최댓값 {
             }
         }
         System.out.println(maxIndex);
+        
     }
 
 }
