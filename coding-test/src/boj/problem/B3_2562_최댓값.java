@@ -1,5 +1,6 @@
 package boj.problem;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class B3_2562_최댓값 {
