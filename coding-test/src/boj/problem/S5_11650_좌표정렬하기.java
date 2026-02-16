@@ -19,13 +19,13 @@ public class S5_11650_좌표정렬하기 {
         Arrays.sort(points, (a, b) -> {
             if (a[0] != b[0]) {
                 return a[0] - b[0]; // x 좌표 비교
-            }else {
+            } else {
                 return a[1] - b[1];
             }
         });
 
         StringBuilder sb = new StringBuilder();
-        for(int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) {
             sb.append(points[i][0] + " " + points[i][1]).append('\n');
         }
         System.out.println(sb);
